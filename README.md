@@ -1,24 +1,39 @@
-# README
+# Rails first app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+- Rails
+- Sublime Text Editor
 
-* Ruby version
 
-* System dependencies
+## Author
 
-* Configuration
+👤 **Abror Mukimov**
+- Github: [abrormukimov](https://github.com/abrormukimov)
+- Linkedin: [abrormukimov](https://www.linkedin.com/in/abrormukimov)
+- Twitter: [abrormukimov](https://www.twitter.com/abrormukimov)
 
-* Database creation
+## 🤝 Contributing
 
-* Database initialization
+Contributions, issues and feature requests are welcome! Start by:
 
-* How to run the test suite
+* Forking the project
+* Cloning the project to your local machine
+* `cd` into the project directory
+* Run `git checkout -b your-branch-name`
+* Make your contributions
+* Push your branch up to your forked repository
+* Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Show your support
 
-* ...
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Microverse](microverse.org)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
